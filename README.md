@@ -4,6 +4,8 @@ Bots that periodically fetch information from Notion databases, format it, and s
 
 ## Setup
 
+**You will make mistakes during the deployment of this bot, so test this inside a private discord server not in the main one**
+
 The following code is written with this notion database format with the exact same naming in mind, if you wish to change the format then you will have to edit the code to suit your new format:
 
 #### Documentation database
