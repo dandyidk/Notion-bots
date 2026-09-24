@@ -13,6 +13,7 @@ export default defineComponent({
     /* PEOPLE MAP (Notion name → Discord ID) */
     const people = {
       "Notion Username": "DiscordID number",
+       "Notion Username2": "DiscordID number2"
     };
 
     /* ------------------------------------------
