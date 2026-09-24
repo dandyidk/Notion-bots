@@ -23,6 +23,8 @@ The sent discord message format:
 
 <img width="509" height="196" alt="image" src="https://github.com/user-attachments/assets/fba58557-7ee3-4dc4-9d65-0796a0b91823" />
 
+---
+
 #### Task database
 <img width="1390" height="183" alt="image" src="https://github.com/user-attachments/assets/32816610-7a00-4d90-a49d-776989b5ac00" />
 
