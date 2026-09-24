@@ -52,7 +52,7 @@ The sent discord message format
 
 <img width="694" height="760" alt="image" src="https://github.com/user-attachments/assets/ab2137d7-6ffc-4a70-95d6-d69529e4e19c" />
 
-
+---
 
 ### Notion API Key
 
@@ -67,6 +67,8 @@ In short:
 5. Create the connection and give it **Content access** and **Edit access** for the pages/databases the bot needs to access.
 6. Go back to the connection's configuration page.
 7. Copy the **Notion API key**.
+
+---
 
 ### Discord Webhook URL
 
